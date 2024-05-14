@@ -31,10 +31,10 @@
        <div id="myNav" class="navbar" style="background-color: rgba(0,0,0,0.9);">
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()" id="close">&times;</a>
           <div class="navbar-content">
-            <a href="home.html">Home</a>
-            <a href="resume.html">CV</a>
-            <a href="blog.html" id="active">Blog</a>
-            <a href="contact.html">Contact</a>
+            <a href="home.php">Home</a>
+            <a href="resume.php">CV</a>
+            <a href="blog.php" id="active">Blog</a>
+            <a href="contact.php">Contact</a>
           </div>
         </div>
         <div class="blog">
@@ -47,7 +47,7 @@
                  <div  class="blog-header">
                  <span class="social-icons">
                      
-                      <a href="https://www.facebook.com/sharer/sharer.php?u=blog.html" target="_blank"><img src="images/Iconslogo/facebook-32.png" class="fa-facebook"></a>
+                      <a href="https://www.facebook.com/sharer/sharer.php?u=blog.php" target="_blank"><img src="images/Iconslogo/facebook-32.png" class="fa-facebook"></a>
                       
                       <a href="https://twitter.com/share?url=https://gilbranid&amp;text=Radenta%20Gilbran&amp;hashtags=Radenta Gilbran" target="_blank"><img src="images/Iconslogo/twitter-32.png" class="fa-twitter"></a>
                       

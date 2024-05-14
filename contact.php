@@ -32,10 +32,10 @@
        <div id="myNav" class="navbar" style="background-color: rgba(0,0,0,0.9);">
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()" id="close">&times;</a>
           <div class="navbar-content">
-            <a href="home.html">Home</a>
-            <a href="resume.html">CV</a>
-            <a href="blog.html">Blog</a>
-            <a href="gallery.html" id="active">Contact</a>
+            <a href="home.php">Home</a>
+            <a href="resume.php">CV</a>
+            <a href="blog.php">Blog</a>
+            <a href="gallery.php" id="active">Contact</a>
           </div>
         </div>
         
