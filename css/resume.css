@@ -200,7 +200,7 @@ caption{
     }
 }
 .css {
-    width: 25%; 
+    width: 90%; 
     background-color: #2196F3;
     animation: css 2s;
 }
@@ -210,11 +210,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 80%;
+        width: 90%;
     }
 }
 .js{
-    width: 10%;
+    width: 20%;
     background-color: darkorange;
     animation: js 2s;
 }
@@ -224,11 +224,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 60%;
+        width: 20%;
     }
 }
 .java{
-    width: 0%; 
+    width: 78%; 
     background-color: darkgreen;
     animation: java 2s;
 }
@@ -238,11 +238,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 60%;
+        width: 78%;
     }
 }
 .dart{ 
-    width: 0%; 
+    width: 89%; 
     background-color: firebrick;
     animation: dart 2s;
 }
@@ -252,11 +252,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 55%;
+        width: 89%;
     }
 }
 .sql{ 
-    width: 70%; 
+    width: 20%; 
     background-color: darkmagenta;
     animation: sql 2s;
 }
@@ -266,11 +266,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 70%;
+        width: 20%;
     }
 }
 .photoshop{
-    width: 37%; 
+    width: 87%; 
     background-color: blueviolet;
     animation: photoshop 2s;
 }
@@ -280,7 +280,7 @@ caption{
         width: 0%;
     }
     to{
-        width: 75%;
+        width: 87%;
     }
 }
 .prepro{
@@ -294,11 +294,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 50%;
+        width: 98%;
     }
 }
 .bootstrap{ 
-    width: 15%; 
+    width: 90%; 
     background-color: firebrick;
     animation: bootstrap 2s;
 }
@@ -308,11 +308,11 @@ caption{
         width: 0%;
     }
     to{
-        width: 70%;
+        width: 90%;
     }
 }
 .php{
-    width: 50%; 
+    width: 90%; 
     background-color: blueviolet;
     animation: php 2s;
 }
@@ -322,6 +322,6 @@ caption{
         width: 0%;
     }
     to{
-        width: 50%;
+        width: 90%;
     }
 }
