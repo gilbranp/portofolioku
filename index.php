@@ -93,7 +93,7 @@
     <script>
       //The below script changes the page to home after 2.3s using timeout function.
       setTimeout(function () {
-        window.location.href = "home.html";
+        window.location.href = "home.php";
       }, 2300);
     </script>
   </body>
