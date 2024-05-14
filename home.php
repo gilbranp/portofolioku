@@ -330,7 +330,7 @@
   <!--Copyright Information-->
   <div class="copyright">
     <p>
-      &copy; Developed by
+      &copy;  <?php  echo date("Y"); ?> Developed by
       <a href="https://gilbranidsoftwareengnr.blogspot.com">gilbranid</a>
     </p>
   </div>
