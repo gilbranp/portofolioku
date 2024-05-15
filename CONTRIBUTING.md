@@ -1,4 +1,4 @@
-.
+
  # Contributing
  ## Issues
  Issues are very valuable to this project.
